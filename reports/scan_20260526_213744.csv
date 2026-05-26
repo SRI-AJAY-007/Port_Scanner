@@ -1,0 +1,3 @@
+Timestamp,Target,Port,Service,Banner,Risk
+2026-05-26 21:37:44.061220,127.0.0.1,135,MSRPC,No Banner Available,LOW
+2026-05-26 21:37:44.061256,127.0.0.1,445,SMB,No Banner Available,MEDIUM - SMB exposed
